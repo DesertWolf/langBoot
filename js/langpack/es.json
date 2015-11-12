@@ -1,0 +1,10 @@
+{
+	"token": {
+		"Property Search":"Buscar propiedad",
+},
+	"regex": [
+		["Budget", "something"],
+		["^Something at start of text", ""],
+		["This will be case insensitive", "i", ""]
+	]
+}
